@@ -5,3 +5,4 @@
 
 [![ReaderPlugin](https://github-readme-stats.vercel.app/api/pin/?username=iamyours&repo=ReaderPlugin&theme=dracula)](https://github.com/iamyours/ReaderPlugin)
 [![FlingAppBarLayout](https://github-readme-stats.vercel.app/api/pin/?username=iamyours&repo=FlingAppBarLayout&theme=dracula)](https://github.com/iamyours/FlingAppBarLayout)
+[![EasySwagger](https://github-readme-stats.vercel.app/api/pin/?username=iamyours&repo=EasySwagger&theme=dracula)](https://github.com/iamyours/EasySwagger)
